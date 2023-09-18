@@ -4,4 +4,4 @@ openai
 tiktoken
 newspaper3k
 python-dotenv
-sentence_transformers
+streamlit
