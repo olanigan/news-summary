@@ -23,5 +23,5 @@ def get_article(article_url):
     except Exception as e:
         print(f"Error occurred while fetching article at {article_url}: {e}")
 
-article_url = "https://www.artificialintelligence-news.com/2022/01/25/meta-claims-new-ai-supercomputer-will-set-records/"
-print(get_article(article_url))
+# article_url = "https://www.artificialintelligence-news.com/2022/01/25/meta-claims-new-ai-supercomputer-will-set-records/"
+# print(get_article(article_url))

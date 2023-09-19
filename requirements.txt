@@ -5,3 +5,4 @@ tiktoken
 newspaper3k
 python-dotenv
 streamlit
+streamlit_chat
